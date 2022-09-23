@@ -11,25 +11,10 @@ Hoje atuo como pesquisador na Ford Motor Company, onde, através da programaçã
   💌 Entre em contato selecionando um dos canais abaixo: ⤵️
 </p>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joao.dal@acad.ufsm.br" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-gabriel-dal-forno/" /></a>
-  
-  
-  <p align="left">
-  Linkedin: https://www.linkedin.com/in/jo%C3%A3o-gabriel-dal-forno/
-</p>
-
-[<img src="[http://www.google.com.au/images/nav_logo7.png](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link)">](https://www.linkedin.com/in/jo%C3%A3o-gabriel-dal-forno/)
 
 [<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link">](https://www.linkedin.com/in/jo%C3%A3o-gabriel-dal-forno/)
+  
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link">](joao.dal@acad.ufsm.br)
 
-  <p align="left">
-  Gmail:joao.dal@acad.ufsm.br
-</p>
 
