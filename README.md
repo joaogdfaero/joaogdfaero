@@ -21,9 +21,10 @@ Hoje atuo como pesquisador na Ford Motor Company, onde, através da programaçã
   
   <p align="left">
   Linkedin: https://www.linkedin.com/in/jo%C3%A3o-gabriel-dal-forno/
+  [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-gabriel-dal-forno/)
 </p>
 
   <p align="left">
-  Gmail: joao.dal@acad.ufsm.br
+  [Gmail](joao.dal@acad.ufsm.br)
 </p>
 
