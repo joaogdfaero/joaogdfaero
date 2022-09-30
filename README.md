@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Estudante de Engenharia Aeroespacial no caminho para se tornar desenvolvedor Ruby on Rails.
+  Estudante de Engenharia Aeroespacial no caminho para se tornar desenvolvedor.
 
 Hoje atuo como pesquisador na Ford Motor Company, onde, através da programação, busco automatizar e aumentar a eficiência dos processos de desenvolvimento dos carros da marca :blue_car:.
 </p>
