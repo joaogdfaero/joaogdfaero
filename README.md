@@ -36,21 +36,21 @@ class Programmer
     <tbody>
 	<tr>
 		<td>1</td>
-            	<td><a href=""><b>Developing...</b></a></td>
+            	<td><a><b>Developing...</b></a></td>
 		<td></td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/database_study" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/database_study" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/database_study" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/database_study" /></td>
         </tr>
         <tr>
 		<td>2</td>
 		<td><a href=""><b></b></a></td>
 	 	<td></td>
-	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
+	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/database_study" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/database_study" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/database_study" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/database_study" /></td>
         </tr>
 </tbody>
 </table>
