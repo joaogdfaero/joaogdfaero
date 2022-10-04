@@ -18,10 +18,9 @@ class Programmer
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=marcodotcastro" alt="marcodotcastro" /> </p>
 
 
-<h3>Open Source Projects</h3>
+<h3>Projects</h3>
 <table>
     <thead align="center">
         <tr border: none;>
@@ -37,8 +36,8 @@ class Programmer
     <tbody>
 	<tr>
 		<td>1</td>
-            	<td><a href="https://github.com/marcodotcastro/sale-factory"><b>Sales Factory</b></a></td>
-		<td>Business / Developer</td>
+            	<td><a href=""><b>Developing...</b></a></td>
+		<td></td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
@@ -46,32 +45,14 @@ class Programmer
         </tr>
         <tr>
 		<td>2</td>
-		<td><a href="https://github.com/marcodotcastro/portal-agro"><b>Portal Agro</b></a></td>
-	 	<td>Business / Developer</td>
+		<td><a href=""><b></b></a></td>
+	 	<td></td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
         </tr>
-        <tr>
-		<td>3</td>
-            	<td><a href="https://github.com/marcodotcastro/application-lifecycle-management"><b>ALM / CI</b></a></td>
-		<td>DevOps</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-	 <tr>
-		<td>4</td>
-            	<td><a href="https://github.com/marcodotcastro/study-rails-vs-phoenix-vs-laravel"><b>Rails vs Phoenix vs Laravel</b></a></td>
-		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-    </tbody>
+</tbody>
 </table>
 
  <img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
