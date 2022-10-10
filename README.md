@@ -12,7 +12,7 @@ class Programmer
 <p align="left">
     <h3 align="left">Connect with me:</h3>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-dal-forno/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>
-    <a href="https://api.whatsapp.com/send?phone=5555984737981&text=Manda%20uma%20mensagem%20que%20logo%20te%20respondo!" target="_blank"><img align="center" src="" alt="marcodotcastro" height="30" width="40"/></a>
+    <a href="https://api.whatsapp.com/send?phone=5555984737981&text=Manda%20uma%20mensagem%20que%20logo%20te%20respondo!" target="_blank"><img align="center" src="https://github.com/joaogdfaero/joaogdfaero/blob/main/whatsapp.png" alt="marcodotcastro" height="30" width="40"/></a>
     <a href="https://www.instagram.com/joaoogdf/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a> 
     <a href="https://github.com/joaogdfaero/joaogdfaero/blob/main/email.md" target="_blank"><img align="center" src="https://github.com/joaogdfaero/joaogdfaero/blob/main/gmail_icon.png" alt="desenvolvendome" height="30" width="40"/></a>  
 </p>
