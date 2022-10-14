@@ -43,7 +43,7 @@ class Programmer
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/algorithms_problems_ruby" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/algorithms_problems_ruby" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/algorithms_problems_ruby" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/algorithms_problems_ruby /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/algorithms_problems_ruby" /></td>
         </tr>
         <tr>
 		<td>2</td>
