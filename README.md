@@ -39,7 +39,7 @@ class Programmer
 	<tr>
 		<td>1</td>
             	<td><a href="https://github.com/joaogdfaero/algorithms_problems_ruby"><b>Ruby Algorithms</b></a></td>
-		<td></td>
+		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/database_study" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/database_study" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/database_study" /></td>
