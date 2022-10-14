@@ -40,10 +40,10 @@ class Programmer
 		<td>1</td>
             	<td><a href="https://github.com/joaogdfaero/algorithms_problems_ruby"><b>Ruby Algorithms</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/database_study" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/database_study" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/database_study" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/database_study" /></td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/algorithms_problems_ruby" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/algorithms_problems_ruby" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/algorithms_problems_ruby" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/algorithms_problems_ruby /></td>
         </tr>
         <tr>
 		<td>2</td>
