@@ -38,7 +38,7 @@ class Programmer
     <tbody>
 	<tr>
 		<td>1</td>
-            	<td><a><b>Developing...</b></a></td>
+            	<td><a href="https://github.com/joaogdfaero/algorithms_problems_ruby"><b>Ruby Algorithms</b></a></td>
 		<td></td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/database_study" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/database_study" /></td>
