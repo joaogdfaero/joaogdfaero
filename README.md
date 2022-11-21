@@ -47,12 +47,12 @@ class Programmer
         </tr>
         <tr>
 		<td>2</td>
-		<td><a href=""><b></b></a></td>
+		<td><a href="https://github.com/joaogdfaero/missao_vaga_preparacao"><b>Livraria</b></a></td>
 	 	<td></td>
-	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/database_study" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/database_study" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/database_study" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/database_study" /></td>
+	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/missao_vaga_preparacao" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/missao_vaga_preparacao" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/missao_vaga_preparacao" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/missao_vaga_preparacao" /></td>
         </tr>
 </tbody>
 </table>
