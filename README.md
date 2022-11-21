@@ -48,7 +48,7 @@ class Programmer
         <tr>
 		<td>2</td>
 		<td><a href="https://github.com/joaogdfaero/missao_vaga_preparacao"><b>Livraria</b></a></td>
-	 	<td></td>
+	 	<td>Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/missao_vaga_preparacao" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/missao_vaga_preparacao" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/missao_vaga_preparacao" /></td>
