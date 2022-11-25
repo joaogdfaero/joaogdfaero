@@ -54,6 +54,15 @@ class Programmer
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/missao_vaga_preparacao" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/missao_vaga_preparacao" /></td>
         </tr>
+	<tr>
+		<td>2</td>
+		<td><a href="https://github.com/joaogdfaero/Casa-Popular-Eficiente"><b>Casa Popular</b></a></td>
+	 	<td>Developer</td>
+	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/Casa-Popular-Eficiente" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/Casa-Popular-Eficiente" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/Casa-Popular-Eficiente" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/Casa-Popular-Eficiente" /></td>
+        </tr>    
 </tbody>
 </table>
 
