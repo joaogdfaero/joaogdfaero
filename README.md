@@ -55,7 +55,7 @@ class Programmer
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/missao_vaga_preparacao" /></td>
         </tr>
 	<tr>
-		<td>2</td>
+		<td>3</td>
 		<td><a href="https://github.com/joaogdfaero/Casa-Popular-Eficiente"><b>Casa Popular</b></a></td>
 	 	<td>Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/Casa-Popular-Eficiente" /></td>
