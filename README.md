@@ -3,7 +3,7 @@
 ```ruby 
 class Programmer
 	def initialize() 
-  # Estudante de Engenharia Aeroespacial fascinado por programação.
+  # Estudante de Engenharia Aeroespacial fascinado por programação e .
 
   # Hoje atuo como pesquisador na Ford Motor Company, onde, através da programação, 
   # busco automatizar e aumentar a eficiência dos processos de desenvolvimento dos carros da marca.
