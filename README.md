@@ -62,7 +62,16 @@ class Programmer
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/Casa-Popular-Eficiente" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/Casa-Popular-Eficiente" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/Casa-Popular-Eficiente" /></td>
-        </tr>    
+        </tr> 
+	 <tr>
+		<td>3</td>
+		<td><a href="https://github.com/joaogdfaero/internship_challenge"><b>Internship Challenge</b></a></td>
+	 	<td>Developer</td>
+	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/internship_challenge" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/internship_challenge" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/internship_challenge" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/internship_challenge" /></td>
+        </tr> 
 </tbody>
 </table>
 
