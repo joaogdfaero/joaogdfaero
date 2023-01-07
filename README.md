@@ -67,7 +67,7 @@ class Programmer
 		<td>3</td>
 		<td><a href="https://github.com/joaogdfaero/Casa-Popular-Eficiente"><b>Casa Popular</b></a></td>
 	 	<td>Developer</td>
-	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/Casa-Popular-Eficiente" /></td>
+	    	<td><img alt="Star" src="https://img.shields.io/github/stars/joaogdfaero/Casa-Popular-Eficiente" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/Casa-Popular-Eficiente" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/Casa-Popular-Eficiente" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/Casa-Popular-Eficiente" /></td>
