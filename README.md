@@ -5,7 +5,7 @@ class Programmer
 	def initialize() 
   # Estudante de Engenharia Aeroespacial fascinado por programação atuando como desenvolvedor back-end.
 
-  # Hoje atuo como desenvolvedor da Nelogica,  
+  # Hoje atuo como desenvolvedor da Nelogica, a maior fintech da América Latina no segmento de tecnologia de renda variável.
   # busco automatizar e aumentar a eficiência dos processos de desenvolvimento dos carros da marca.
 ```
 
