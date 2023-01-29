@@ -7,7 +7,6 @@ class Programmer
 
   # Hoje atuo como desenvolvedor da Nelogica, a maior fintech da América Latina no segmento de tecnologia de renda variável.
  
- 
 ```
 
 <p align="left">
