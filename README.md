@@ -6,7 +6,6 @@ class Programmer
   # Estudante de Engenharia Aeroespacial fascinado por programação atuando como desenvolvedor back-end.
 
   # Hoje atuo como desenvolvedor na Nelogica, a maior fintech da América Latina no segmento de tecnologia de renda variável. 
-  # Minhas linguagens são Ruby (Ruby on Rails) e Del
 
 
 ```
