@@ -82,7 +82,6 @@ class Programmer
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <h4 align="left">Learning:</h4>
-		<a href="https://stackshare.io/delphi" target="_blank"><img src="https://github.com/joaogdfaero/joaogdfaero/blob/main/delphiicon.png" alt="delphi" width="40" height="40" /></a>
 	<a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
 	<a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
 	 <a href="https://stackshare.io/gitlab" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
