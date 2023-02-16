@@ -1,6 +1,6 @@
 # Olá, eu sou João Gabriel 
 
-```de
+```ruby
 class Programmer
 	def initialize() 
   # Estudante de Engenharia Aeroespacial fascinado por programação atuando como desenvolvedor back-end.
