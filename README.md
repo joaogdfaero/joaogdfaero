@@ -71,7 +71,7 @@ class Programmer
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/Casa-Popular-Eficiente" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/Casa-Popular-Eficiente" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/Casa-Popular-Eficiente" /></td>
-        </tr> 
+        </tr> -->
 </tbody>
 </table>
 
