@@ -37,7 +37,7 @@ class Programmer
     </thead>
     <tbody>
 	 <tr>
-		<td>2</td>
+		<td>1/td>
 		<td><a href="https://github.com/joaogdfaero/editora_livros_rails"><b>Editora de Livros</b></a></td>
 	 	<td>Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/editora_livros_rails" /></td>
@@ -46,7 +46,7 @@ class Programmer
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/editora_livros_rails" /></td>
         </tr> 
 	<tr>
-		<td>1</td>
+		<td>2/td>
             	<td><a href="https://github.com/joaogdfaero/algorithms_problems_ruby"><b>Ruby Algorithms</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/algorithms_problems_ruby" /></td>
@@ -55,7 +55,7 @@ class Programmer
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/algorithms_problems_ruby" /></td>
         </tr>
 	 <tr>
-		<td>2</td>
+		<td>3/td>
 		<td><a href="https://github.com/joaogdfaero/internship_challenge"><b>Internship Challenge</b></a></td>
 	 	<td>Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/internship_challenge" /></td>
@@ -64,7 +64,7 @@ class Programmer
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/internship_challenge" /></td>
         </tr> 
 <!--- 	<tr>
-		<td>3</td>
+		<td>4/td>
 		<td><a href="https://github.com/joaogdfaero/Casa-Popular-Eficiente"><b>Casa Popular</b></a></td>
 	 	<td>Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/Casa-Popular-Eficiente" /></td>
