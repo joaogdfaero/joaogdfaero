@@ -36,6 +36,15 @@ class Programmer
         </tr>
     </thead>
     <tbody>
+	 <tr>
+		<td>2</td>
+		<td><a href="https://github.com/joaogdfaero/editora_livros_rails"><b>Editora Rails</b></a></td>
+	 	<td>Developer</td>
+	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/editora_livros_rails" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/editora_livros_rails" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/editora_livros_rails" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/editora_livros_rails" /></td>
+        </tr> 
 	<tr>
 		<td>1</td>
             	<td><a href="https://github.com/joaogdfaero/algorithms_problems_ruby"><b>Ruby Algorithms</b></a></td>
@@ -45,15 +54,6 @@ class Programmer
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/algorithms_problems_ruby" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/algorithms_problems_ruby" /></td>
         </tr>
- <!---       <tr>
-		<td>2</td>
-		<td><a href="https://github.com/joaogdfaero/missao_vaga_preparacao"><b>Livraria</b></a></td>
-	 	<td>Developer</td>
-	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/missao_vaga_preparacao" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/missao_vaga_preparacao" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/missao_vaga_preparacao" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/missao_vaga_preparacao" /></td>
-        </tr> -->
 	 <tr>
 		<td>2</td>
 		<td><a href="https://github.com/joaogdfaero/internship_challenge"><b>Internship Challenge</b></a></td>
