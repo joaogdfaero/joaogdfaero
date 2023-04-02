@@ -56,7 +56,7 @@ class Programmer
         </tr>
 	 <tr>
 		<td>3</td>
-		<td><a href="https://github.com/joaogdfaero/teste_tecnico_rails_1"><b>Teste Técnico Rails </b></a></td>
+		<td><a href="https://github.com/joaogdfaero/teste_tecnico_rails_2"><b>Teste Técnico Rails </b></a></td>
 	 	<td>Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/teste_tecnico_rails_2" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/teste_tecnico_rails_2" /></td>
