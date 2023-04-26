@@ -5,8 +5,7 @@ class Programmer
 	def initialize() 
   # Estudante de Engenharia Aeroespacial fascinado por programação atuando como desenvolvedor back-end.
 
-  # Atuei na Ford Motor Company como pesquisador e desenvolvedor na área de software. Hoje atuo como desenvolvedor na Nelogica, a maior fintech da América Latina 
-  # no segmento de tecnologia de renda variável. 
+  # Atuei na Ford Motor Company como pesquisador e desenvolvedor na área de software. Hoje atuo como desenvolvedor na Nelogica. Minha principal linguagem de atuação é o Ruby On Rails. 
 ```
 
 <p align="left">
