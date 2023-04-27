@@ -3,9 +3,9 @@
 ```ruby
 class Programmer
 	def initialize() 
-  # Estudante de Engenharia Aeroespacial fascinado por programação atuando como desenvolvedor back-end.
+  # Engenheiro Aeroespacial atuando como desenvolvedor back-end.  
 
-  # Atuei na Ford Motor Company como pesquisador e desenvolvedor na área de software. Hoje atuo como desenvolvedor na Nelogica. Minha principal linguagem de atuação é o Ruby On Rails. 
+  # Atuei na Ford Motor Company como pesquisador e desenvolvedor na área de software. Hoje atuo como desenvolvedor na Nelogica.
 ```
 
 <p align="left">
