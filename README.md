@@ -10,7 +10,7 @@ class Programmer
 ```
 
 <p align="left">
-    <h3 align="left">Connect with me:</h3>
+    <h3 align="left">Entre em contato:</h3>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-dal-forno/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>
     <a href="https://wa.me/+555555984737981?text=Ol%C3%A1,%20te%20encontrei%20no%20GitHub!
 " target="_blank"><img align="center" src="whatsapp-icon-transparent-png-6.png" alt="marcodotcastro" height="30" width="40"/></a>
