@@ -6,7 +6,7 @@ class Programmer
   # Engenheiro Aeroespacial atuando como desenvolvedor back-end.  
 
   # Atuei na Ford Motor Company como pesquisador e desenvolvedor na área de software. Hoje atuo como desenvolvedor 
-  na Nelogica. 
+  # na Nelogica. 
   # Minha stack preferida é o Ruby on Rails.
 ```
 
