@@ -7,7 +7,7 @@ class Programmer
 
   # Atuei na Ford Motor Company como pesquisador e desenvolvedor na área de software. Hoje atuo como desenvolvedor 
   # na Nelogica. 
-  # Minha stack preferida é o Ruby on Rails.
+  # Minha stack preferida é o Ruby on Rails. Tenho também experiência com Delphi.
 ```
 
 <p align="left">
