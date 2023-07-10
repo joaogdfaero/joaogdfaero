@@ -81,8 +81,8 @@ class Programmer
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/teste_tecnico_rails_2" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/teste_tecnico_rails_2" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/teste_tecnico_rails_2" /></td>
-        </tr> 
-<!---	 <tr>
+        </tr> -->--
+	 <tr>
 		<td>3</td>
 		<td><a href="https://github.com/joaogdfaero/teste_tecnico_rails_3"><b>Teste Técnico Ruby</b></a></td>
 	 	<td>Developer</td>
