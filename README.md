@@ -73,7 +73,7 @@ class Programmer
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/teste_tecnico_rails_4" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/teste_tecnico_rails_4" /></td>
         </tr> 
-	<tr>
+<!---	 <tr>	<tr>
 		<td>3</td>
 		<td><a href="https://github.com/joaogdfaero/teste_tecnico_rails_2"><b>Teste Técnico Rails </b></a></td>
 	 	<td>Developer</td>
