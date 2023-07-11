@@ -113,7 +113,7 @@ class Programmer
 	<a href="https://stackshare.io/delphi" target="_blank"><img src="https://github.com/joaogdfaero/joaogdfaero/blob/main/delphiicon.png" alt="delphi" width="40" height="40" /></a>       
 	 <a href="https://stackshare.io/gitlab" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
         <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
-	        <a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" /></a>
+	<a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" /></a>
 	 <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
 	 <a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
     </p>
