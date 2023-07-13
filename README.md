@@ -47,7 +47,7 @@ class Programmer
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/Netflix_API" /></td>
         </tr> 
 	 <tr>
-		<td>1</td>
+		<td>2</td>
 		<td><a href="https://github.com/joaogdfaero/editora_livros_rails"><b>Editora de Livros</b></a></td>
 	 	<td>Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/editora_livros_rails" /></td>
@@ -56,7 +56,7 @@ class Programmer
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/editora_livros_rails" /></td>
         </tr> 
 	<tr>
-		<td>2</td>
+		<td>3</td>
             	<td><a href="https://github.com/joaogdfaero/algorithms_problems_ruby"><b>Ruby Algorithms</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/algorithms_problems_ruby" /></td>
@@ -74,7 +74,7 @@ class Programmer
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/teste_tecnico_rails_4" /></td>
         </tr> -->
 	 <tr>	<tr>
-		<td>3</td>
+		<td>4</td>
 		<td><a href="https://github.com/joaogdfaero/teste_tecnico_rails_2"><b>Teste Técnico Rails </b></a></td>
 	 	<td>Developer</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/teste_tecnico_rails_2" /></td>
