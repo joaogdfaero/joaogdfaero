@@ -3,7 +3,7 @@
 ```ruby
 class Programmer
 	def initialize() 
-  # Engenheiro Aeroespacial atuando como desenvolvedor back-end.  
+  # Engenheiro Aeroespacial atuando como desenvolvedor.  
 
   # Atuei na Ford Motor Company como pesquisador e desenvolvedor na área de software. Hoje atuo como desenvolvedor 
   # na Nelogica. 
