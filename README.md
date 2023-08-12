@@ -11,17 +11,6 @@ class Programmer
   end
 end
 ```
-
-```ruby
-class Programmer
-	def initialize() 
-  # Engenheiro Aeroespacial atuando como desenvolvedor.  
-
-  # Atuei na Ford Motor Company como pesquisador e desenvolvedor na área de software. Hoje atuo como desenvolvedor 
-  # na Nelogica. 
-  # Minha stack preferida é o Ruby on Rails. Tenho também experiência com Delphi.
-```
-
 <p align="left">
     <h3 align="left">Entre em contato:</h3>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-dal-forno/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>
