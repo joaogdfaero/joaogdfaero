@@ -1,4 +1,16 @@
-# Olá, eu sou João Gabriel 
+# Hello, I am João Gabriel.
+
+```ruby
+class Programmer
+  def initialize()
+    # Aerospace Engineer working as a developer.
+
+    # I worked at Ford Motor Company as a researcher and software developer. Today, I work as a developer
+    # at Nelogica.
+    # My preferred stack is Ruby on Rails. I also have experience with Delphi.
+  end
+end
+```
 
 ```ruby
 class Programmer
