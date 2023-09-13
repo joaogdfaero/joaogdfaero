@@ -57,7 +57,7 @@ end
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/CargoMatch" /></td>
         </tr> 
 		<td>2</td>
-		<td><a href="https://github.com/joaogdfaero/editora_livros_rails"><b>Rails Publisher</b></a></td>
+		<td><a href="https://github.com/joaogdfaero/editora_livros_rails"><b>Book Publisher</b></a></td>
 	 	<td>Ruby on Rails</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/editora_livros_rails" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/editora_livros_rails" /></td>
