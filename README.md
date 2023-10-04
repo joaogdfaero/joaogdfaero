@@ -47,6 +47,15 @@ end
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/CargoMatch" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/CargoMatch" /></td>
 	<tr>
+	<tr>
+		<td>1</td>
+		<td><a href="https://github.com/joaogdfaero/guitar_store"><b>Guitar Store</b></a></td>
+	 	<td>Ruby on Rails</td>
+	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/guitar_store" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/guitar_store" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/guitar_store" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/guitar_store" /></td>
+	<tr>
 		<td>2</td>
 		<td><a href="https://github.com/joaogdfaero/Netflix_API"><b>Netflix API</b></a></td>
 		<td>Ruby on Rails</td>
@@ -56,7 +65,7 @@ end
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/Netflix_API" /></td>
 	 <tr>
         </tr> 
-		<td>2</td>
+		<td>3</td>
 		<td><a href="https://github.com/joaogdfaero/editora_livros_rails"><b>Book Publisher</b></a></td>
 	 	<td>Ruby on Rails</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/editora_livros_rails" /></td>
@@ -65,7 +74,7 @@ end
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/editora_livros_rails" /></td>
         </tr> 
 	<tr>
-		<td>3</td>
+		<td>4</td>
             	<td><a href="https://github.com/joaogdfaero/algorithms_problems_ruby"><b>Ruby Algorithms</b></a></td>
 		<td>Ruby on Rails</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/algorithms_problems_ruby" /></td>
