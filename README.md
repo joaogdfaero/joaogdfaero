@@ -7,7 +7,7 @@ class Programmer
 
     # I worked at Ford Motor Company as a researcher and software developer. Today, I work as a developer
     # at Nelogica.
-    # My preferred stack is Ruby on Rails. I also have experience with Delphi.
+    # My preferred stack is Ruby on Rails. I also have experience with Python and Delphi.
   end
 end
 ```
