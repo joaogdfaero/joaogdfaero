@@ -3,7 +3,7 @@
 ```ruby
 class Programmer
   def initialize()
-    # Aerospace Engineer working as a developer.
+    # Aerospace Engineer working as a software developer.
 
     # I worked at Ford Motor Company as a researcher and software developer. Today, I work as a developer
     # at Nelogica.
