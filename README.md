@@ -57,21 +57,21 @@ end
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/guitar_store" /></td>
 	<tr>
 		<td>3</td>
-		<td><a href="https://github.com/joaogdfaero/rails_react_notes"><b>Notes App</b></a></td>
-		<td>Ruby on Rails & React</td>
-	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/rails_react_notes" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/rails_react_notes" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/rails_react_notes" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/rails_react_notes" /></td>
-	 <tr>
-	<tr>
-		<td>4</td>
 		<td><a href="https://github.com/joaogdfaero/Netflix_API"><b>Netflix API</b></a></td>
 		<td>Ruby on Rails</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/Netflix_API" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/Netflix_API" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/Netflix_API" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/Netflix_API" /></td>
+	 <tr>
+	<tr>
+		<td>4</td>
+		<td><a href="https://github.com/joaogdfaero/rails_react_notes"><b>Notes App</b></a></td>
+		<td>Ruby on Rails & React</td>
+	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/rails_react_notes" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/rails_react_notes" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/rails_react_notes" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/rails_react_notes" /></td>
 	 <tr>
         </tr> 
 		<td>5</td>
