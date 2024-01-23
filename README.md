@@ -5,9 +5,9 @@ class Programmer
   def initialize()
     # Aerospace Engineer working as a software developer.
 
-    # I worked at Ford Motor Company as a researcher and software developer. Today, I work as a developer
+    # I worked at Ford Motor Company as Python software developer. Today, I work as a developer
     # at Nelogica.
-    # My preferred stack is Ruby on Rails. I also have experience with Python and Delphi.
+    # I also have experience with Ruby on Rails and Delphi.
   end
 end
 ```
