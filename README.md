@@ -66,6 +66,15 @@ end
 	 <tr>
 	<tr>
 		<td>4</td>
+		<td><a href="https://github.com/joaogdfaero/local_sagrado"><b>Jovens Cristãos Brasil</b></a></td>
+		<td>Ruby on Rails</td>
+	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/local_sagrado" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/local_sagrado" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/local_sagrado" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/local_sagrado" /></td>
+	 <tr>
+	<tr>
+		<td>5</td>
 		<td><a href="https://github.com/joaogdfaero/rails_react_notes"><b>Notes App</b></a></td>
 		<td>Ruby on Rails & React</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/rails_react_notes" /></td>
@@ -74,7 +83,7 @@ end
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/rails_react_notes" /></td>
 	 <tr>
         </tr> 
-		<td>5</td>
+		<td>6</td>
 		<td><a href="https://github.com/joaogdfaero/editora_livros_rails"><b>Book Publisher</b></a></td>
 	 	<td>Ruby on Rails</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/editora_livros_rails" /></td>
@@ -83,7 +92,7 @@ end
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/editora_livros_rails" /></td>
         </tr> 
 	<tr>
-		<td>6</td>
+		<td>7</td>
             	<td><a href="https://github.com/joaogdfaero/algorithms_problems_ruby"><b>Ruby Algorithms</b></a></td>
 		<td>Ruby on Rails</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/joaogdfaero/algorithms_problems_ruby" /></td>
