@@ -22,7 +22,6 @@ end
 
 ---
 
-
 <h3>Projects</h3>
 <table>
     <thead align="center">
