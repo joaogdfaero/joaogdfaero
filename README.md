@@ -19,7 +19,9 @@ end
     <a href="https://www.instagram.com/joaoogdf/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a> 
     <a href="https://github.com/joaogdfaero/joaogdfaero/blob/main/email.md" target="_blank"><img align="center" src="https://github.com/joaogdfaero/joaogdfaero/blob/main/gmail_icon.png" alt="desenvolvendome" height="30" width="40"/></a>  
 </p>
+
 ---
+
 <h3>Projects</h3>
 <table>
     <thead align="center">
