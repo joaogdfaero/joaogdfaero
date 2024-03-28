@@ -7,7 +7,7 @@ class Programmer
 
     # I worked at Ford Motor Company as Python Developer. Today, I work as a developer
     # at Nelogica.
-    # I also have experience with Ruby on Rails and Delphi.
+    # I also have experience with Ruby on Rails and Delphi development.
   end
 end
 ```
