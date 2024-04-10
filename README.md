@@ -1,5 +1,4 @@
 # Hello, I am João Gabriel.
-
 ```ruby
 class Programmer
   def initialize()
