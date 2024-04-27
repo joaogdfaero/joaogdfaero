@@ -88,7 +88,7 @@ end
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/editora_livros_rails" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/editora_livros_rails" /></td>
         </tr> 
-	<tr>
+<!-- 	<tr>
 		<td>7</td>
             	<td><a href="https://github.com/joaogdfaero/algorithms_problems_ruby"><b>Ruby Algorithms</b></a></td>
 		<td>Ruby on Rails</td>
@@ -96,7 +96,7 @@ end
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/joaogdfaero/algorithms_problems_ruby" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/joaogdfaero/algorithms_problems_ruby" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joaogdfaero/algorithms_problems_ruby" /></td>
-        </tr>
+        </tr> -->
 <!---	 <tr>
 		<td>3</td>
 		<td><a href="https://github.com/joaogdfaero/teste_tecnico_rails_4"><b>Teste Técnico Rails </b></a></td>
