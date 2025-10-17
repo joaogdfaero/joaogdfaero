@@ -24,4 +24,4 @@ I work to make software reliable, fast, and user-friendly — through good testi
 ---
 
 ### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/joaogdfaero) · [GitHub](https://github.com/joaogdfaero) · joaogdfaero@gmail.com
+[LinkedIn](https://www.linkedin.com/in/joaogabrieldf/) · [GitHub](https://github.com/joaogdfaero) · Email: joao.dal@acad.ufsm.br
